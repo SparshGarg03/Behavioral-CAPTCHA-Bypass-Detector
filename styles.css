@@ -1,0 +1,31 @@
+#focus-area{
+    position: absolute;
+    width: 67vw;    
+    height: 65vh;
+    top: 15vh;
+    left: 17vw;
+    background: #2f29c624;
+    border: 2px solid rgb(61, 61, 214);
+}
+
+#submit-btn{
+    cursor: pointer;
+    position: absolute;
+    bottom: 20px;
+    left: 46%;
+    padding: 10px 20px;
+    font-size: 13px;
+    background-color: aqua;
+    border: solid 3px darkblue;
+    border-radius: 10px;
+    transition: 0.3s ease-in-out;
+}
+
+#submit-btn:hover{
+    background-color: #2d4aef;
+    color: white;
+    border-color: rgb(39, 168, 203);
+    
+}
+
+
